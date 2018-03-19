@@ -1,0 +1,37 @@
+header{
+  height:400px;
+  background-image: url(https://hart-legal.com/wp-content/uploads/2017/01/AdobeStock_111623497.jpeg);
+  background-size: cover;
+  border-bottom-style:solid;
+  
+}
+#Heading1{
+  text-align: center;
+}
+
+nav{
+  float: left;
+  max-width: 200px;
+  margin: 0;
+  padding: 1em;
+  border-right-style: solid;
+  }
+nav ul{
+  list-style-type:none;
+  padding: 0;
+}
+nav ul a{
+  text-decoration: none;
+  color: black;
+  font-family: "Comic Sans", sans-serif;
+}
+nav ul li{
+  margin:10px;
+  padding; 10px;
+}
+article{
+  margin-left: 170px;
+  border-left: 1px sold gray;
+  padding: 1em;
+  height: 250px
+}
